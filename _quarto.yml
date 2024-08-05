@@ -1,0 +1,16 @@
+project:
+  title: "dh-indian-rim-afterword"
+  
+manuscript: 
+  article: dh-indian-rim-afterword.qmd
+
+csl: chicago-full.csl
+
+format: 
+  html: default
+  docx: default
+  pdf: default
+  jats: default
+
+
+
