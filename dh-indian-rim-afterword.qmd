@@ -8,7 +8,8 @@ author:
     url: https://michaelfalk.io
 bibliography: references.bib
 funding: The project was supported by funding from India's SPARC scheme.
-date: "2025"
+date: 2024-11-06
+doi: 10.11647/obp.0423.17
 citation:
   type: chapter
   container-title: Digital Humanities in the Indian Rim
@@ -17,7 +18,18 @@ citation:
     - Ujjwal Jana
     - Myra Gurney
   publisher: Open Book Publishers
+  publisher-place: Cambridge, UK
+  isbn: 978-1-80511-387-4
+  page: 333-344
+  pdf-url: https://books.openbookpublishers.com/10.11647/obp.0423.17.pdf
+google-scholar: true
+abstract: What justifies the creation of a scholarly community in the "Indian Rim"? In this afterword, I justify the development of a Digital Humanities community in the region, by considering the parallel development of "postcolonial DH" in India and Australia.
+toc: true
+keywords: Postcolonial Digital Humanities, Digital Humanities in Australia, Digital Humanities in India
+license: "CC BY-NC"
 ---
+
+## Introduction
 
 Why the "Indian Rim"? When we began *DH in the Indian Rim*, we had the utopian desire to construct a new research network in the Global South, to rival the Atlantic network that continues to dominate scholarly life. What could digital humanists in South Asia, Australasia, East Africa and the Persian Gulf teach one another about digital scholarship? How does Digital Humanities (DH) look from the Indian Ocean?
 

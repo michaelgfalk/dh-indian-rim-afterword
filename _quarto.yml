@@ -8,9 +8,6 @@ csl: chicago-full.csl
 
 format: 
   html: default
-  docx: default
-  pdf: default
-  jats: default
 
 
 

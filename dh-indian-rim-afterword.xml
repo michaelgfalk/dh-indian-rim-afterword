@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving
 and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
-<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.2" article-type="other">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.2" article-type="chapter">
   <front>
+    <journal-meta>
+      <journal-id/>
+      <journal-title-group>
+        <journal-title>Digital Humanities in the Indian Rim</journal-title>
+      </journal-title-group>
+      <issn/>
+      <publisher>
+        <publisher-name>Open Book Publishers</publisher-name>
+      </publisher>
+    </journal-meta>
     <article-meta>
       <title-group>
         <article-title>Afterword</article-title>
@@ -22,16 +32,26 @@ and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
       <author-notes>
         <corresp id="cor-1">michael.falk@unimelb.edu.au</corresp>
       </author-notes>
+      <pub-date date-type="pub" publication-format="electronic" iso-8601-date="2025-01-01">
+        <year>2025</year>
+        <month>1</month>
+        <day>1</day>
+      </pub-date>
       <history/>
+      <funding-group>
+        <funding-statement>The project was supported by funding from India’s
+SPARC scheme.</funding-statement>
+      </funding-group>
     </article-meta>
   </front>
   <body>
-    <p>Why in “Indian Rim”? When we began DH in the Indian Rim, we had the
-utopian desire to construct a new research network in the Global South,
-to rival the Transatlantic network that continues to dominate scholarly
-life. What could digital humanists in South Asia, Australasia, East
-Africa and the Persian Gulf teach one another about digital scholarship?
-How does Digital Humanities (DH) look from the Indian Ocean?</p>
+    <p>Why the “Indian Rim”? When we began <italic>DH in the Indian
+Rim</italic>, we had the utopian desire to construct a new research
+network in the Global South, to rival the Atlantic network that
+continues to dominate scholarly life. What could digital humanists in
+South Asia, Australasia, East Africa and the Persian Gulf teach one
+another about digital scholarship? How does Digital Humanities (DH) look
+from the Indian Ocean?</p>
     <p>The Indian Ocean does present challenges as a shared space to work.
 There are few existing institutional links, and what links there are,
 are typically mediated by Atlantic institutions. This was readily
@@ -48,49 +68,48 @@ England.</p>
 have we been able to achieve, working within and across the Indian
 Ocean? Does it even make sense to think of the Indian Ocean as a
 distinct intellectual <italic>milieu</italic>, when so many scholars
-from the region have taken up degrees or faculty positions in countries
-outside it?</p>
-    <p>Today, India and Australia are well-established players in global DH.
-It is no surprise that this book, though it began with higher
-aspirations, has resolved into a collaboration between scholars from
-these two nations. As these contributions indicate, scholars in India
-and Australia are flourishing in the mainstream of DH: they build
-databases, remediate archives, analyse text computationally, critique
-technology humanisitically, and wonder how to convert DH from a field of
-research into a viable teaching program under local conditions. In these
-respects, neither Indian nor Australian DH need to make excuses for
-themselves.</p>
-    <p>This is not enough to justify “DH in the Indian Rim,” however. If
-scholars around the Indian Ocean Rim wish to form a distinctive group,
-then their group must have some distinctive qualities. What are
-they?</p>
-    <p>As Cohen and Jana suggest in their introduction, the distinction lies
-in our shared histories of colonisation. To be sure, these histories are
-not the same. Australia is a settler-colonial state with a white
-majority, hundreds of Indigenous peoples and a growing plurality of
-global migrants—including some 600,000 from India (Chand, this volume).
-India is a large federation of postcolonial states, with an enormous
-global diaspora, and its own history of domination by caste, religion,
-language and region. On the surface, these histories of colonisation
-seem hardly the same, but they have bred in both countries a powerful
-hunger for postcolonial—or decolonial—approaches to DH.</p>
+from the Ocean have taken up degrees or faculty positions in countries
+beyond its shores?</p>
+    <p>Today, India and Australia are well-established players in global
+DH.<xref ref-type="fn" rid="fn1">1</xref> It is no surprise that this
+book, though it began with broader aspirations, has resolved into a
+collaboration between scholars from these two nations. As these
+contributions indicate, scholars in India and Australia are flourishing
+in the mainstream of DH: they build databases, remediate archives,
+process cultural data, critique technology, and wonder how to convert DH
+from a field of research into a viable teaching program under local
+conditions. In these respects, neither Indian nor Australian DH need to
+make excuses for themselves.</p>
+    <p>This is all very well, but it is not enough to justify <italic>DH in
+the Indian Rim</italic>. If scholars around the Indian Ocean Rim wish to
+form a distinctive group, then their group must have some distinctive
+qualities. What are they?</p>
+    <p>As Cohen and Jana suggest in their introduction, the greatest
+commonality among Indian Rim countries is our shared history of
+colonisation. To be sure, the history of colonisation is never anywhere
+the same. Australia is a settler-colonial state with a white majority,
+hundreds of Indigenous nations and a growing plurality of global
+migrants—including some 600,000 from India (Chand, this volume). India
+is a large federation of postcolonial states, with an enormous global
+diaspora, and its own history of domination by caste, religion, language
+and region. Despite these differences, the legacy of colonisation has
+inflected DH in both countries, and suggests that continued regional
+collaboration could be productive.</p>
     <p>In what follows, I discuss three main strands of postcolonial DH,
 indicating how Indian and Australian digital humanists have made unique
 and complementary contributions to them. The strands are
 <italic>counter-archiving</italic>, <italic>multilingual DH</italic> and
 <italic>jugaad</italic>, or <italic>minimal computing</italic>. Like all
-strands, these three are intertwined, but I hope to make them
-sufficiently clear for discussion. I conclude with a reflection on
-possible futures for DH in the Indian Rim. Indigenous scholars are
-entering the Australian academy in greater numbers. Indian scholars are
-reviving Sanskrit learning, and using it to critique dominant Western
-methodologies, with ever greater success. These developments raise the
-possibility of a fundamentally new kind of Digital Humanities, with new
-origin stories and new directions, liberated from the inspiring but also
-stifling myths that have hitherto given DHers their sense of academic
-identity (see
-<xref alt="Jones 2016" rid="ref-jones_roberto_2016" ref-type="bibr">Jones
-2016</xref>).</p>
+strands, these three are intertwined, but I hope to separate them
+adequately for discussion. I conclude with a reflection on possible
+futures for DH in the Indian Rim. Indigenous scholars are entering the
+Australian academy in greater numbers. Indian scholars are reviving
+Sanskrit learning, and using it to critique dominant Western
+methodologies with ever greater success. These developments raise the
+possibility of a fundamentally new kind of DH, with new origin stories
+and new directions, liberated from the inspiring but also stifling myths
+that have hitherto given “DHers” their sense of academic
+identity.<xref ref-type="fn" rid="fn2">2</xref></p>
     <sec id="counter-archiving">
       <title>Counter-archiving</title>
       <p>Cohen presents a splendid example of
@@ -111,41 +130,38 @@ identity (see
   its usefulness to traditional owners, who are drawing on the archive
   to “revitalise ceremonies that haven’t been performed for
   generations.”</p>
-      <p>The preeminent theorist of postcolonial DH is Indian-American
+      <p>The preeminent DH theorist of counter-archiving is Indian-American
   scholar Roopika Risam. In <italic>New Digital Worlds</italic> (2019),
   she prpounds a theory of postcolonial “world-making,” which can
   usefully be applied to Cohen’s project. As Risam sees it, postcolonial
   DH is both critical and practical. On the critical side, postcolonial
-  DH scholars “addresses underexplored questions of power,
-  globalization, and colonial and neocolonial ideologies that are
-  shaping the digital cultural record in its mediated, material form[.]”
-  On the practical side, postcolonial DH scholars “[design] new tools,
-  methods, and workflows that are based in local practices […] to create
-  space for underrepresented communities to populate the digital
-  cultural record with their own stories.”
-  (<xref alt="Risam 2019, 9" rid="ref-risam_new_2019" ref-type="bibr">Risam
-  2019, 9</xref>) Both these sides of postcolonial DH are exemplified in
-  Cohen’s project. It began with a critique of the Strehlow Research
-  Centre’s settler-colonial heritage, and morphed into a practical
-  project to digitise the archive according to Arrernte cultural
-  protocols.</p>
+  DH “addresses underexplored questions of power, globalization, and
+  colonial and neocolonial ideologies that are shaping the digital
+  cultural record in its mediated, material form[.]” On the practical
+  side, postcolonial DH scholars “[design] new tools, methods, and
+  workflows that are based in local practices […] to create space for
+  underrepresented communities to populate the digital cultural record
+  with their own stories.”<xref ref-type="fn" rid="fn3">3</xref> Both
+  these sides of postcolonial DH are exemplified in Cohen’s project. It
+  began with a critique of the Strehlow Research Centre’s
+  settler-colonial heritage, and morphed into a practical project to
+  digitise the archive according to Arrernte cultural protocols.</p>
       <p>India’s history of colonisation is different to Australia’s, and
   accordingly the critical side of counter-archiving is different. The
-  practical side, however, is often similar. Consider the reflections by
-  C.S. Lakshmi, long-time curator of the SPARROW archive in Mumbai. She
-  set up the archive to combat dominant narratives about the “Third
-  World,” which is “supposed to worry about slums, environment, legal
-  aid for women, health care, rural development and so on” (quoted in
-  <xref alt="Kalra and Nene 2020, 142" rid="ref-dodd_ethics_2020" ref-type="bibr">Kalra
-  and Nene 2020, 142</xref>). Her archive allows women to tell the
-  stories they wish to tell about themselves, rather than fit into a
-  global developmental narrative. On the critical side, therefore, this
-  project is quite distinct from Cohen’s: Cohen critiques a
-  settler-colonial archive in the possession of a white ruling class,
-  and helps to return the archive to its traditional owners. Lakshmi
-  sets up a new archive to tell stories that are missing from existing
-  archives about the “Third World.” On the practical side, however,
-  Lakshmi’s project converges with Cohen’s:</p>
+  practical side, however, is often similar. A good example is SPARROW,
+  an oral history database curated for many years by C.S. Lakshmi.
+  Lakshmi set up the archive to combat dominant narratives about the
+  “Third World,” which is “supposed to worry about slums, environment,
+  legal aid for women, health care, rural development and so
+  on”.<xref ref-type="fn" rid="fn4">4</xref> Her archive allows Indian
+  women to eschew these dominant narratives, and to describe their lives
+  in their own way for their own reasons. On the critical side,
+  therefore, this project is quite distinct from Cohen’s: Cohen
+  critiques a settler-colonial archive in the possession of a white
+  ruling class, and helps to return the archive to its traditional
+  owners. Lakshmi sets up a new archive to tell stories that are missing
+  from existing archives about the “Third World.” On the practical side,
+  however, Lakshmi’s project converges with Cohen’s:</p>
       <disp-quote>
         <p>What happens is the demand for fully open archiving comes from
     the West. I’m not for fully-open archiving. I’ll tell you why. For
@@ -155,76 +171,70 @@ identity (see
     it in a way that people can read it on their computer; it’s
     possible. I can give excerpts of it, for example, but we can’t make
     the whole thing available online because I feel that when you put it
-    on the web, millions of people can read it for no purpose. (quoted
-    in
-    <xref alt="Kalra and Nene 2020, 143" rid="ref-dodd_ethics_2020" ref-type="bibr">Kalra
-    and Nene 2020, 143</xref>)</p>
+    on the web, millions of people can read it for no
+    purpose.<xref ref-type="fn" rid="fn5">5</xref></p>
       </disp-quote>
       <p>Like Cohen, Lakshmi has developed protocols that rub against the
   dominant digital ideology of “openness” or the “free flow of
-  information” (see
-  <xref alt="Tkacz 2015, chap. 1" rid="ref-tkacz_wikipedia_2015" ref-type="bibr">Tkacz
-  2015, chap. 1</xref>). In this case, Lakshmi has developed protocols
-  informally over many decades with her informants, devising a locally
-  appropriate division between revelation and concealment (she rejects
-  the public/private distinction:
-  <xref alt="Kalra and Nene 2020, 150" rid="ref-dodd_ethics_2020" ref-type="bibr">Kalra
-  and Nene 2020, 150</xref>). Lakshmi is typical. Surveying the scene of
-  Indian DH, Shah
-  (<xref alt="2019" rid="ref-shah_digital_2019" ref-type="bibr">2019</xref>)
-  argues that India has entered a “post-access” phase of
-  digitisation.</p>
+  information.”<xref ref-type="fn" rid="fn6">6</xref> In this case,
+  Lakshmi has developed protocols informally over many decades with her
+  informants, devising a locally appropriate division between revelation
+  and concealment.<xref ref-type="fn" rid="fn7">7</xref> Lakshmi is
+  typical. According to Nishant Shah, Indian DH has entered a
+  “post-access” phase.<xref ref-type="fn" rid="fn8">8</xref> Merely
+  opening the world’s digital cultural record is no longer the primary
+  aim.</p>
       <p>In Australia, counter-archiving is increasingly well organised,
-  overseen by Indigenous scholars and archivists. Kukutai and Taylor
-  (<xref alt="2016" rid="ref-kukutai_indigenous_2016" ref-type="bibr">2016</xref>)
-  have edited a seminal collection on <italic>Indigenous Data
+  overseen by Indigenous scholars and archivists. Tahu Kuktai and John
+  Taylor have edited a seminal collection on <italic>Indigenous Data
   Sovereignty</italic>, with contributors from Australia, Aoteoroa/New
-  Zealand and North America. Organisations such as the
-  <ext-link ext-link-type="uri" xlink:href="">Indigenous Data
-  Network</ext-link> and the
-  <ext-link ext-link-type="uri" xlink:href="">Indigenous Archives
-  Network</ext-link> provide platforms for Indigenous scholars and
-  archivists to critique existing archives and organise to build new
-  ones. The Commons
-  (<xref alt="2022" rid="ref-australian_research_data_commons_care_2022" ref-type="bibr">2022</xref>)
-  has subsequently adopted the CARE principles as core guidelines,
-  alongside the more familiar FAIR
-  principles.<xref ref-type="fn" rid="fn1">1</xref> Major DH archives
-  such as <ext-link ext-link-type="uri" xlink:href="">People
+  Zealand and North America.<xref ref-type="fn" rid="fn9">9</xref>
+  Organisations such as the
+  <ext-link ext-link-type="uri" xlink:href="https://mspgh.unimelb.edu.au/centres-institutes/centre-for-health-equity/research-group/indigenous-data-network">Indigenous
+  Data Network</ext-link> and the
+  <ext-link ext-link-type="uri" xlink:href="https://indigenousarchives.net/">Indigenous
+  Archives Collective</ext-link> provide platforms for Indigenous
+  scholars and archivists to critique existing archives and organise to
+  build new ones. The
+  <ext-link ext-link-type="uri" xlink:href="https://ardc.edu.au/">Australian
+  Research Data Commons</ext-link> has subsequently adopted the CARE
+  principles as core guidelines, alongside the more familiar FAIR
+  principles.<xref ref-type="fn" rid="fn10">10</xref> Major DH archives
+  such as
+  <ext-link ext-link-type="uri" xlink:href="https://peopleaustralia.anu.edu.au/">People
   Australia</ext-link>,
-  <ext-link ext-link-type="uri" xlink:href="">Austlit/Blackwords</ext-link>,
-  and <ext-link ext-link-type="uri" xlink:href="">Trove</ext-link> have,
-  with varying degrees of success, either brought in Indigenous managers
-  or adopted more culturally sensitive practices. Indigenous scholars
+  <ext-link ext-link-type="uri" xlink:href="https://www.austlit.edu.au/">Austlit/Blackwords</ext-link>,
+  and
+  <ext-link ext-link-type="uri" xlink:href="https://trove.nla.gov.au/">Trove</ext-link>
+  have, with varying degrees of success, either brought in Indigenous
+  managers or adopted more culturally sensitive
+  practices.<xref ref-type="fn" rid="fn11">11</xref> Indigenous scholars
   are increasingly prominent in public debates about knowledge
-  institutions. In the last two years, Thorpe, Sentance, and Booker
-  (<xref alt="2023" rid="ref-thorpe_wikimedia_2023" ref-type="bibr">2023</xref>)
-  and <bold>FIRST NATIONS FOCUS GROUP</bold> have released highly
-  publicised reports full of stark but constructive criticism about the
-  world’s pre-eminent knowledge institution: Wikipedia. Although many
-  Australian researchers (the author included) continue to work in the
-  traditional digital fields of text analysis and cultural databasing,
-  it seems that Australia is entering its own “post-access” phase of
-  DH.</p>
-      <p>
-        <bold>Chinese/Indian archives in Oz; diasporic DH?</bold>
-      </p>
+  institutions. In the last two years, prominent Aboriginal scholars
+  have released highly publicised reports which starkly but
+  constructively criticise Wikipedia, the world’s preeminent knowledge
+  institution.<xref ref-type="fn" rid="fn12">12</xref> Although many
+  Australian researchers (the author included) continue to work in
+  traditional digital fields such as text analysis and cultural
+  databasing, where openness and reproducibility are prized, it seems
+  that Australia is entering its own “post-access” phase of DH.</p>
     </sec>
     <sec id="multilingual-dh">
       <title>Multilingual DH</title>
       <p>India and Australia are profoundly multilingual, as are most
-  countries in the Indian Rim. India is <bold>GET STATS</bold>.
-  Australia is home to more than 200 Indigenous languages, and hundreds
-  more community languages, although the hegemony of English renders
-  many minority languages vulnerable <bold>CHECK STATS</bold>. In this
-  respect, DH in the Indian Rim again contrasts with its Atlantic
-  counterpart. Although of course there are many Indigenous languages in
-  North America, and several European nations with more than one
-  official language, DH in the Atlantic has seldom had to grapple with
-  the same degree of multilingualism as DH in the Indian Rim.</p>
+  countries in the Indian Rim. More than 400 languages are spoken in
+  India.<xref ref-type="fn" rid="fn13">13</xref> In Australia, there are
+  more than 200 Indigenous languages, and more than 20% of Australians
+  speak a language other than English at
+  home.<xref ref-type="fn" rid="fn14">14</xref> In this respect, DH in
+  the Indian Rim again contrasts with its Atlantic counterpart. Although
+  of course there are many Indigenous and migrant languages in North
+  America, and several European nations with more than one official
+  language, Atlantic DH has seldom had to grapple with the same degree
+  of multilingualism as DH in the Indian Rim.</p>
       <p>In India, multilingualism is essentially compulsory. It is not
   possible to research digital artefacts or platforms without
-  encountering multple languages. This is illustrated beautifully in
+  encountering multiple languages. This is illustrated beautifully in
   Chand’s chapter. Chand is doubly diasporic: a member of Fiji’s Indian
   minority, who subsequently migrated to Australia. Her research into
   dating apps reveals a network of languages linking members of the
@@ -243,83 +253,101 @@ identity (see
   text under study and the academic text they are writing. Thus in this
   case, too, multilingualism is <italic>compulsory</italic>, where in
   the Atlantic world it is often avoidable.</p>
-      <p>Indian DH projects are almost inevitably multilingual. The Asian
-  Art Archive’s Bibliography of Modern and Contemporary Art Writing of
-  South Asia records more than 12,000 pieces of art writing in 12
-  languages
-  (<xref alt="Ragavan 2020" rid="ref-ragavan_processes_2020" ref-type="bibr">Ragavan
-  2020</xref>). <bold>Other examples</bold></p>
+      <p>Indian DH projects are almost inevitably multilingual. The
+  <ext-link ext-link-type="uri" xlink:href="https://aaabibliography.org/">Bibliography
+  of Modern and Contemporary Art Writing of South Asia</ext-link>
+  records more than 12,000 pieces of art writing in 12
+  languages.<xref ref-type="fn" rid="fn15">15</xref> The
+  <ext-link ext-link-type="uri" xlink:href="https://in.1947partitionarchive.org/">1947
+  Partition Archive</ext-link> contains more than 10,000 oral histories
+  in 37 languages.
+  <ext-link ext-link-type="uri" xlink:href="http://bichitra.jdvu.ac.in/">Bichitra</ext-link>,
+  an online variorum of Rabindranath Tagore, contains a mixture of
+  manuscripts in two languages—English and Bengali—which use different
+  scripts. This multilingualism has shaped the project at every level,
+  from the data model of the bibliography, the encoding scheme of the
+  texts, and the algorithm of the collation
+  system.<xref ref-type="fn" rid="fn16">16</xref> Even Indian projects
+  that begin monolingual have a tendency to become multilingual.
+  <ext-link ext-link-type="uri" xlink:href="https://rekhta.org/">Rekhta.org</ext-link>
+  began as an archive of Urdu poetry, but was extended in 2020 to
+  include Hindi texts.<xref ref-type="fn" rid="fn17">17</xref></p>
       <p>Despite the hegemony of English, DH in Australia has been unusually
   multilingual for a long time. This is probably due to the relative
-  prominence of field linguists, archaeologists and anthropologists in
-  Australian DH. The flagship project for multilingual DH in Australia
-  is <ext-link ext-link-type="uri" xlink:href="">PARADISEC</ext-link>, a
-  large digital archive that aims to conserve the cultural and
-  linguistic heritage of the Australia-Pacific. It is a venerable
-  project, now in its <bold>25th</bold> year. It contains recordings,
-  videos and written materials in <bold>INSERT NUMBER</bold> languages
-  from across Australia and the Pacific. As I discuss in the next
-  section, PARADISEC has taken special measures to make its materials
-  available to the communities it represents, and has control measures
-  in place to allow them to protect their cultural data. Other
-  Australian projects in a similar vein include:
-  <ext-link ext-link-type="uri" xlink:href="">Austlang</ext-link>, which
-  provides metadata abotu Indigenous Australian Languages; the
-  <ext-link ext-link-type="uri" xlink:href="">Living Languages
-  Platform</ext-link>, which provides free dictionary apps of Indigenous
-  Australian languages; and the
-  <ext-link ext-link-type="uri" xlink:href="">AUSLAN
+  prominence of documentary linguists, archaeologists and
+  anthropologists in Australian DH. The flagship project for
+  multilingual DH in Australia is
+  <ext-link ext-link-type="uri" xlink:href="https://www.paradisec.org.au/">PARADISEC</ext-link>,
+  a large digital archive that conserves the cultural and linguistic
+  heritage of the Australia-Pacific. It is a venerable project, more
+  than 20 years old, but still expanding and improving. It contains
+  recordings, videos and written materials in 1370 languages from across
+  Australia and the Pacific. As I discuss in the next section, PARADISEC
+  has taken special measures to make its materials available to the
+  communities it represents, and has control measures in place to allow
+  them to protect their cultural data. Other Australian projects in a
+  similar vein include:
+  <ext-link ext-link-type="uri" xlink:href="https://collection.aiatsis.gov.au/austlang/search">Austlang</ext-link>,
+  which provides metadata about Indigenous Australian Languages; the
+  <ext-link ext-link-type="uri" xlink:href="https://www.livinglanguages.org.au/">Living
+  Languages Platform</ext-link>, which provides free dictionary apps of
+  Indigenous Australian languages; and the
+  <ext-link ext-link-type="uri" xlink:href="https://auslan.org.au/">AUSLAN
   Signbank</ext-link>, an innovative video dictionary of Australian Sign
-  Language.</p>
+  Language. Digital resources for Australia’s many community languages,
+  such as Arabic, Chinese or Bengali, are not so well developed. It is
+  notable, for example, that the
+  <ext-link ext-link-type="uri" xlink:href="https://www.ldaca.edu.au/">Language
+  Data Commons of Australia</ext-link> currently includes data on 31
+  languages, including AUSLAN and numerous Indigenous Languages, but no
+  resources for migrant languages other than
+  English.<xref ref-type="fn" rid="fn18">18</xref></p>
       <p>These classic Australian examples of multilingual DH have mostly
   been aimed at specialist researchers and the communities they study.
   More recently, innovative DH researchers have found ways to reach a
   wider audience. As part of the <italic>Waves of Words</italic> project
-  (mentioned in Burrows, this volume), Hendery and Burrell
-  (<xref alt="2019" rid="ref-hendery_playful_2019" ref-type="bibr">2019</xref>)
+  (mentioned in Burrows, this volume), Rachel Hendery and Andrew Burrell
   developed <italic>Glossopticon</italic>, a virtual reality experience
   in which users could explore the linguistic diversity of the Pacific
-  with all the senses. Users could fly across the Pacific, following
-  known canoe routes, and hear recorded speech from PARADISEC on the
-  islands. In a different strand of the project, Antoinette Schaepper
-  and I experimented with machine learning, concept mapping and string
-  matching to hunt for shared vocabulary in Australian, Papuan and
-  Polynesian languages. It has hitherto been difficult to incorporate
-  multiple languages in the traditiona DH fields of text analysis and
-  cultural analytics. But Indian and Australian DHers are steadily
-  making the effort.</p>
+  with all the senses.<xref ref-type="fn" rid="fn19">19</xref> Users can
+  fly across the Pacific, following known canoe routes, and hear
+  recorded speech from PARADISEC on the islands. It has hitherto been
+  difficult to incorporate multiple languages in the traditional DH
+  fields of text analysis and cultural analytics. But Indian and
+  Australian DHers are steadily making the effort.</p>
     </sec>
     <sec id="jugaad-or-minimal-computing">
       <title><italic>Jugaad</italic>; or minimal computing</title>
       <p>One of the most important aspects of postcolonial DH is
-  <italic>jugaad</italic>, or minimal computing. As the Hindi name for
-  the practice suggests, minimal computing has been a key theme in
-  Indian DH, where internet and computer penetration is far lower than
-  in the Atlantic strongholds of traditional DH. <italic>Jugaad</italic>
-  is an untranslatable word that intersects with the English “makeshift”
-  or “hacking.” As Ray Murray and Hand
-  (<xref alt="2015, 144" rid="ref-ray_murray_making_2015" ref-type="bibr">2015,
-  144</xref>) observe in their canonical treatment of the topic,
-  <italic>jugaad</italic> resembles other practices of “technological
-  disobedience” in the Global South, including
-  “<italic>Gambiarra</italic> in Brazil, <italic>Rebusque</italic> in
-  Colombia, and <italic>Jua Kali</italic> in Kenya.” The concept is
-  tricky, as Mukherjee
-  (<xref alt="2020" rid="ref-mukherjee_digital_2020" ref-type="bibr">2020</xref>)
-  points out. If <italic>jugaad</italic> is an inherently disobedient
-  practice, how can it be incorporated into the disciplined structures
-  of an academic degree? Ray Murray
-  (<xref alt="2020, 130" rid="ref-ray_murray_decolonising_2020" ref-type="bibr">2020,
-  130</xref>) herself is more sanguine, observing an interesting fact
-  about DH pedegogy in India: India’s first graduate DH degree was not
-  founded in an English or History department, as is usually the case,
-  but was founded in a school of Design. In India, it seems, DH lays a
-  stronger emphasis on <italic>making things work</italic> rather than
-  <italic>analysing the cultural record</italic>.</p>
+  <italic>jugaad</italic>, or minimal computing. Minimal computing is an
+  ambiguous concept in DH, but usually “connotes digital humanities work
+  undertaken in the context of some set of
+  constraints.”<xref ref-type="fn" rid="fn20">20</xref> Minimal
+  computing has been a key theme in Indian DH, where the constraints are
+  often greater than in Atlantic DH. Indian digital humanists theorise
+  minimal computing under the title <italic>jugaad</italic>, an
+  untranslatable word that intersects with the English “makeshift” or
+  “hack.” As Padmini Ray Murray and Chris Hand observe in their
+  canonical treatment of the topic, <italic>jugaad</italic> resembles
+  other practices of “technological disobedience” in the Global South,
+  including “<italic>Gambiarra</italic> in Brazil,
+  <italic>Rebusque</italic> in Colombia, and <italic>Jua Kali</italic>
+  in Kenya.”<xref ref-type="fn" rid="fn21">21</xref></p>
+      <p><italic>Jugaad</italic> is a tricky concept to institutionalise, as
+  Souvik Mukherjee points out.<xref ref-type="fn" rid="fn22">22</xref>
+  If <italic>jugaad</italic> is an inherently disobedient practice, how
+  can it be incorporated into the disciplined structures of an academic
+  degree? Ray Murray herself is more sanguine, observing an interesting
+  fact about DH pedegogy in India: India’s first graduate DH degree was
+  not founded in an English or History department, as is usually the
+  case, but was founded in a school of
+  Design.<xref ref-type="fn" rid="fn23">23</xref> In India, it seems, DH
+  lays a stronger emphasis on <italic>making things work</italic> rather
+  than <italic>analysing the cultural record</italic>.</p>
       <p>The same cannot be said for Australia. To my knowledge, only four
   Australian Universities have offered teaching programs in DH: Monash
   University, the Australian National University, Western Sydney
-  University and Melbourne University. In no case was the program
+  University and the University of Melbourne. In no case was the program
   offered as part of a degree in Design. Literature, linguistics,
   history and information science have been the dominant disciplines, as
   far as DH pedagogy is concerned.</p>
@@ -331,17 +359,18 @@ identity (see
   villages of Vanuatu or the highlands of Papua New Guinea. Desktops are
   likewise less common than they ought to be in remote Aboriginal
   communities in Australia. Accordingly the project has developed
-  technology to make linguistic materials available on smartphones using
-  a local WiFi network projected from a Raspberry Pi. Linguistic and
-  cultural data can be loaded onto the computer, which is robust and
-  draws little power. The computer generates a local network, and
-  members of the community can access the database.
-  <bold>REFERENCE</bold></p>
-      <p>In my own work, co-ordinating the Digital Studies program at the
-  University of Melbourne, I have taken inspiration from
-  <italic>jugaad</italic>. To teach my first-year students how to make
-  computers do things, I have them play <italic>Turing Tumble</italic>,
-  an AUD$100 mechanical computer. I have them create games using
+  technology to enable local communities to access their data offline.
+  Linguistic and cultural data are loaded onto a Raspberry Pi in a
+  static format such as html. The Raspberry Pi then generates a local
+  WiFi network, and community members can access the data using their
+  phones.<xref ref-type="fn" rid="fn24">24</xref></p>
+      <p>In my own work, coordinating the
+  <ext-link ext-link-type="uri" xlink:href="https://study.unimelb.edu.au/find/courses/minor/digital-studies-minor/">Digital
+  Studies</ext-link> program at the University of Melbourne, I have
+  taken inspiration from <italic>jugaad</italic>. To teach my first-year
+  students how to make computers do things, I have them play
+  <italic>Turing Tumble</italic>, an AUD$100 mechanical computer. I have
+  them create games using
   <ext-link ext-link-type="uri" xlink:href="https://make.bitsy.org">bitsy</ext-link>,
   a web-based “8-bit” game development program. I have them submit their
   assignments in the <italic>PechaKucha</italic> format, a highly
@@ -349,32 +378,59 @@ identity (see
   Melbourne, such constraints are artificial. We are a wealthy
   institution where—despite the usual grumbles—resources are plentiful,
   and our (mostly) privileged students are (mostly) able to obtain what
-  they need. But the inspiring examples of my Indian colleauges—and
+  they need. But the inspiring examples of my Indian colleagues—and
   other practitioners in the Global South—have demonstrated the value of
-  constaint, if we want our students to make things
+  constraint, if we want our students to make things
   <italic>critically</italic>.</p>
     </sec>
     <sec id="futures-past">
       <title>Futures past</title>
-      <p>DH in the Indian Rim is an incipient community. Ambassadors of
-  Indian DH, such as Rahul Gairola and Asha Chand, have brought their
-  knowledge to Australia. Others, such as Ujjwal Jana, Maya Dodd,
-  Dibyaduti Roy and Nirmala Menon, have invited Australian collaborators
-  into their circles. Building the rest of the network, across the rest
-  of the Ocean, will take time and effort, but I am convinced that both
-  are worthwhile.</p>
-    </sec>
-    <sec id="references">
-      <title>References</title>
-      <p>Dutta, R. (2015b). “Let’s Talk”: Promoting dialogue and
-  answerability in critical humanities education with permeable
-  curriculum and an āddā-based pedagogy. Kultura-Społeczeństwo-Edukacja,
-  7(1), 35-59. doi:10.14746/kse.2015.1.3</p>
+      <p>This volume demonstrates the willingness of Australian and Indian
+  scholars to build a new intellectual community in the Indian Ocean
+  Rim. I believe their is an appetite for broader connections across the
+  Ocean, which would build on more ancient connections. On the western
+  shores of the Ocean, the Swahili have a saying, <italic>rupia kwa ya
+  pili</italic>—“as like as two rupees.” Rupees once travelled the
+  length and breadth of the Indian Ocean on traders’
+  <italic>dhows</italic>. In Arnhem Land, in Australia’s north, the
+  Yolŋu Matha word for money is <italic>rrupiya</italic>, a word that
+  Yolŋu people presumably learned from Makassan traders who came to
+  their shores to gather
+  trepang.<xref ref-type="fn" rid="fn25">25</xref> The currents of the
+  Indian Ocean have flowed with blood in recent centuries, but also with
+  else besides.</p>
+      <p>In both India and Australia, new visions for our digital future are
+  stirring, visions that once were repressed. In India, some scholars
+  have drawn on classical Indian scholarship to critique modern methods.
+  Nirmala Menon, for example, has rebuilt postcolonial translation
+  theory with the help of classical Sanskrit concepts:
+  <italic>dhavani</italic>, <italic>bhava</italic>,
+  <italic>shruti</italic> and
+  <italic>rasa</italic>.<xref ref-type="fn" rid="fn26">26</xref> Menon
+  now oversees many multilingual DH projects in the
+  <ext-link ext-link-type="uri" xlink:href="https://jpnnationalcentre.com/">Jaya
+  Prakash Narayan National Centre of Excellence in the
+  Humanities</ext-link>. In Australia, Indigenous futurists draw on
+  traditional storytelling to envisage alternative socio-technical
+  systems. In her story “Campfire,” for example, Nyungar technologist
+  Kathryn Gledhill-Tucker imagines a distributed system of
+  Internet-of-Things devices, <italic>Campfire</italic>, around which
+  Aboriginal people sit to talk to one another and care for
+  country.<xref ref-type="fn" rid="fn27">27</xref> The pasts of the
+  Indian Ocean are diverse. So accordingly are its futures.</p>
+      <p>The people of the Indian Ocean are not <italic>rupia kwa ya
+  pili</italic>, except insofar as any two rupees mark out different
+  paths in the same arena of exchange. The exchange is surely worth it.
+  Digital Humanities may sometimes seem an eccentric affair, the
+  attempts of a few crazed academics to twist the computer into a shape
+  that it is not made to assume. But the work of humanising the computer
+  <italic>is</italic> important, and must be enriched by a new and
+  invigorated DH in the Indian Rim.</p>
     </sec>
   </body>
   <back>
     <ref-list>
-      <title/>
+      <title>References</title>
       <ref id="ref-kukutai_indigenous_2016">
         <element-citation publication-type="book">
           <source>Indigenous Data Sovereignty: Toward an agenda</source>
@@ -449,6 +505,27 @@ identity (see
           <lpage>501</lpage>
         </element-citation>
       </ref>
+      <ref id="ref-risam_south_2020">
+        <element-citation publication-type="book">
+          <source>South Asian Digital Humanities: Postcolonial Mediations across Technology’s Cultural Canon</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Risam</surname>
+              <given-names>Roopika</given-names>
+            </name>
+            <name>
+              <surname>Gairola</surname>
+              <given-names>Rahul K.</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Routledge</publisher-name>
+          <publisher-loc>S.l.</publisher-loc>
+          <year iso-8601-date="2020-07">2020</year>
+          <month>07</month>
+          <edition>1 edition</edition>
+          <isbn>978-0-367-50405-2</isbn>
+        </element-citation>
+      </ref>
       <ref id="ref-ray_murray_making_2015">
         <element-citation publication-type="article-journal">
           <person-group person-group-type="author">
@@ -475,6 +552,26 @@ identity (see
           <uri>http://radar.gsa.ac.uk/4701/1/Visible-Language-CM-2015-RayMurray-Hand-140-155.pdf</uri>
           <fpage>140</fpage>
           <lpage>155</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-dodd_exploring_2020">
+        <element-citation publication-type="book">
+          <source>Exploring Digital Humanities in India: Pedagogies, Practices, and Institutional Possibilities</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Dodd</surname>
+              <given-names>Maya</given-names>
+            </name>
+            <name>
+              <surname>Kalra</surname>
+              <given-names>Nidhi</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Routledge</publisher-name>
+          <publisher-loc>Abingdon; New York</publisher-loc>
+          <year iso-8601-date="2020-07">2020</year>
+          <month>07</month>
+          <isbn>978-1-138-50319-9</isbn>
         </element-citation>
       </ref>
       <ref id="ref-risam_new_2019">
@@ -533,16 +630,10 @@ identity (see
           <isbn>978-1-317-28653-0</isbn>
         </element-citation>
       </ref>
-      <ref id="ref-australian_research_data_commons_care_2022">
+      <ref id="ref-noauthor_care_2022">
         <element-citation>
-          <person-group person-group-type="author">
-            <name>
-              <surname>Commons</surname>
-              <given-names>Australian Research Data</given-names>
-            </name>
-          </person-group>
           <article-title>CARE Principles for Indigenous Data Governance  ARDC</article-title>
-          <source>https://ardc.edu.au/</source>
+          <source>Australian Research Data Commons</source>
           <year iso-8601-date="2022-10">2022</year>
           <month>10</month>
           <date-in-citation content-type="access-date">
@@ -551,6 +642,34 @@ identity (see
             <day>12</day>
           </date-in-citation>
           <uri>https://ardc.edu.au/resource/the-care-principles/</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-gledhill-tucker_campfire_2024">
+        <element-citation publication-type="chapter">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gledhill-Tucker</surname>
+              <given-names>Kathryn</given-names>
+            </name>
+          </person-group>
+          <article-title>Campfire</article-title>
+          <source>The Rocks Remain : Blak Poetry and Story</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Wyld</surname>
+              <given-names>Karen</given-names>
+            </name>
+            <name>
+              <surname>Guerrera</surname>
+              <given-names>Dominic</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Wakefield Press</publisher-name>
+          <publisher-loc>Kent Town</publisher-loc>
+          <year iso-8601-date="2024">2024</year>
+          <isbn>978-1-923042-38-4</isbn>
+          <fpage>83</fpage>
+          <lpage>90</lpage>
         </element-citation>
       </ref>
       <ref id="ref-dodd_ethics_2020">
@@ -701,15 +820,494 @@ identity (see
           <lpage>137</lpage>
         </element-citation>
       </ref>
+      <ref id="ref-bhowmik_bichitra_2022">
+        <element-citation publication-type="chapter">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bhowmik</surname>
+              <given-names>Spandana</given-names>
+            </name>
+          </person-group>
+          <article-title>Bichitra: The Online Tagore Variorum Project</article-title>
+          <source>Literary Cultures and Digital Humanities in India</source>
+          <publisher-name>Routledge India</publisher-name>
+          <year iso-8601-date="2022">2022</year>
+          <isbn>978-1-00-335424-6</isbn>
+        </element-citation>
+      </ref>
+      <ref id="ref-noauthor_cultural_2020">
+        <element-citation>
+          <article-title>Cultural safety for First Australians  Trove</article-title>
+          <year iso-8601-date="2020">2020</year>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2024-07-31">2024</year>
+            <month>07</month>
+            <day>31</day>
+          </date-in-citation>
+          <uri>https://webarchive.nla.gov.au/awa/20200921070933/https://trove.nla.gov.au/help/using-trove/cultural-safety-first-australians</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-carlson_i_2024">
+        <element-citation publication-type="report">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Carlson</surname>
+              <given-names>Bronwyn</given-names>
+            </name>
+            <name>
+              <surname>Rana</surname>
+              <given-names>Lotus</given-names>
+            </name>
+          </person-group>
+          <article-title>"I really like Wikipedia, but I don’t trust it": Understanding First Nations peoples’ experiences using Wikipedia as readers and/or editors</article-title>
+          <publisher-name>Macquarie University</publisher-name>
+          <year iso-8601-date="2024">2024</year>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2024-07-30">2024</year>
+            <month>07</month>
+            <day>30</day>
+          </date-in-citation>
+          <uri>https://researchers.mq.edu.au/en/publications/bd82516f-c0d8-4ba3-97f1-97f552644f3d</uri>
+          <pub-id pub-id-type="doi">10.25949/76YK-G627</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-zaidi_literary_2022">
+        <element-citation publication-type="book">
+          <source>Literary Cultures and Digital Humanities in India</source>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Zaidi</surname>
+              <given-names>Nishat</given-names>
+            </name>
+            <name>
+              <surname>Pue</surname>
+              <given-names>A. Sean</given-names>
+            </name>
+          </person-group>
+          <publisher-name>Routledge India</publisher-name>
+          <publisher-loc>London</publisher-loc>
+          <year iso-8601-date="2022-12">2022</year>
+          <month>12</month>
+          <isbn>978-1-00-335424-6</isbn>
+          <pub-id pub-id-type="doi">10.4324/9781003354246</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ref-noauthor_glottoscope_nodate">
+        <element-citation>
+          <article-title>GlottoScope – India</article-title>
+          <source>Glottolog 5.0</source>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2024-07-31">2024</year>
+            <month>07</month>
+            <day>31</day>
+          </date-in-citation>
+          <uri>https://glottolog.org/langdoc/status/browser?focus=ed&amp;country=IN#3/24.63/70.10</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-thieberger_technology_2020">
+        <element-citation publication-type="article-journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thieberger</surname>
+              <given-names>Nick</given-names>
+            </name>
+          </person-group>
+          <article-title>Technology in Support of Languages of The Pacific: Neo-Colonial or Post-Colonial?</article-title>
+          <source>ASIAN-EUROPEAN MUSIC RESEARCH JOURNAL</source>
+          <year iso-8601-date="2020-06">2020</year>
+          <month>06</month>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2024-07-31">2024</year>
+            <month>07</month>
+            <day>31</day>
+          </date-in-citation>
+          <volume>5</volume>
+          <issn>2625378X</issn>
+          <uri>https://www.logos-verlag.de/cgi-bin/engpapermid?doi=10.30819/aemr.5-3&amp;lng=deu&amp;id=</uri>
+          <pub-id pub-id-type="doi">10.30819/aemr.5-3</pub-id>
+          <fpage>17</fpage>
+          <lpage>24</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref-thieberger_doing_2023">
+        <element-citation publication-type="article-journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Thieberger</surname>
+              <given-names>Nick</given-names>
+            </name>
+          </person-group>
+          <article-title>Doing it for Ourselves: The New Archive Built by and Responsive to the Researcher</article-title>
+          <source>Digital Humanities Quarterly</source>
+          <year iso-8601-date="2023">2023</year>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2024-07-31">2024</year>
+            <month>07</month>
+            <day>31</day>
+          </date-in-citation>
+          <volume>17</volume>
+          <issue>1</issue>
+          <issn>1938-4122</issn>
+          <uri>https://www.digitalhumanities.org/dhq/vol/17/1/000667/000667.html</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-noauthor_glottoscope_nodate-1">
+        <element-citation>
+          <article-title>Glottoscope – Australia</article-title>
+          <source>Glottolog 5.0</source>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2024-07-31">2024</year>
+            <month>07</month>
+            <day>31</day>
+          </date-in-citation>
+          <uri>https://glottolog.org/langdoc/status/browser?focus=ed&amp;country=AU#4/-22.11/133.68</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-noauthor_cultural_2022">
+        <element-citation>
+          <article-title>Cultural diversity of Australia</article-title>
+          <source>Australian Bureau of Statistics</source>
+          <year iso-8601-date="2022-09">2022</year>
+          <month>09</month>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2024-07-31">2024</year>
+            <month>07</month>
+            <day>31</day>
+          </date-in-citation>
+          <uri>https://www.abs.gov.au/articles/cultural-diversity-australia#language</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-zaidi_rekhta_2022">
+        <element-citation publication-type="chapter">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Zaidi</surname>
+              <given-names>Nishat</given-names>
+            </name>
+            <name>
+              <surname>Aqib</surname>
+              <given-names>Mohd</given-names>
+            </name>
+          </person-group>
+          <article-title>From Rekhta to rekhta.org: Digital Remappings of Urdu Literary Culture and Public Sphere</article-title>
+          <source>Literary Cultures and Digital Humanities in India</source>
+          <publisher-name>Routledge India</publisher-name>
+          <year iso-8601-date="2022">2022</year>
+          <isbn>978-1-00-335424-6</isbn>
+        </element-citation>
+      </ref>
+      <ref id="ref-risam_introduction_2022">
+        <element-citation publication-type="article-journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Risam</surname>
+              <given-names>Roopika</given-names>
+            </name>
+            <name>
+              <surname>Gil</surname>
+              <given-names>Alex</given-names>
+            </name>
+          </person-group>
+          <article-title>Introduction: The Questions of Minimal Computing</article-title>
+          <source>Digital Humanities Quarterly</source>
+          <year iso-8601-date="2022">2022</year>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2024-07-31">2024</year>
+            <month>07</month>
+            <day>31</day>
+          </date-in-citation>
+          <volume>16</volume>
+          <issue>2</issue>
+          <issn>1938-4122</issn>
+          <uri>https://www.digitalhumanities.org/dhq/vol/16/2/000646/000646.html</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-noauthor_ldaca_nodate">
+        <element-citation>
+          <article-title>LDaCA</article-title>
+          <source>Language Data Commons of Australia</source>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2024-08-05">2024</year>
+            <month>08</month>
+            <day>05</day>
+          </date-in-citation>
+          <uri>https://data.ldaca.edu.au/search</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-noauthor_rrupiya_nodate">
+        <element-citation>
+          <article-title>Rrupiya  Word Details</article-title>
+          <source>Yolŋu Matha Dictionary</source>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2024-08-05">2024</year>
+            <month>08</month>
+            <day>05</day>
+          </date-in-citation>
+          <uri>https://yolngudictionary.cdu.edu.au/word_details.php?id=7080</uri>
+        </element-citation>
+      </ref>
+      <ref id="ref-menon_remapping_2016">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Menon</surname>
+              <given-names>Nirmala</given-names>
+            </name>
+          </person-group>
+          <source>Remapping the Indian Postcolonial Canon</source>
+          <publisher-name>Palgrave Macmillan UK</publisher-name>
+          <publisher-loc>London</publisher-loc>
+          <year iso-8601-date="2016">2016</year>
+          <date-in-citation content-type="access-date">
+            <year iso-8601-date="2020-09-22">2020</year>
+            <month>09</month>
+            <day>22</day>
+          </date-in-citation>
+          <isbn>978-1-137-53797-3 978-1-137-53798-0</isbn>
+          <uri>http://link.springer.com/10.1057/978-1-137-53798-0</uri>
+          <pub-id pub-id-type="doi">10.1057/978-1-137-53798-0</pub-id>
+        </element-citation>
+      </ref>
     </ref-list>
     <fn-group>
       <fn id="fn1">
         <label>1</label>
-        <p>CARE (Collective benefit, Authority to control,
-    Responsibility, and Ethics) emphasises the rights of groups to
-    control data about them, as opposed to FAIR (Findable, Accessible,
-    Interoperable, Reusable), which emphasises the importance of sharing
-    data to guarantee the integrity of research.</p>
+        <p>For an overview of Indian DH, readers may consult
+    Roopika Risam and Rahul K. Gairola, eds.,
+    <xref alt="South Asian Digital Humanities: Postcolonial Mediations Across Technology’s Cultural Canon, 1 edition (S.l.: Routledge, 2020)" rid="ref-risam_south_2020" ref-type="bibr"><italic>South
+    Asian Digital Humanities: Postcolonial Mediations Across
+    Technology’s Cultural Canon</italic>, 1 edition (S.l.: Routledge,
+    2020)</xref>, Maya Dodd and Nidhi Kalra, eds.,
+    <xref alt="Exploring Digital Humanities in India: Pedagogies, Practices, and Institutional Possibilities (Abingdon; New York: Routledge, 2020)" rid="ref-dodd_exploring_2020" ref-type="bibr"><italic>Exploring
+    Digital Humanities in India: Pedagogies, Practices, and
+    Institutional Possibilities</italic> (Abingdon; New York: Routledge,
+    2020)</xref> and Nishat Zaidi and A. Sean Pue, eds.,
+    <xref alt="Literary Cultures and Digital Humanities in India (London: Routledge India, 2022), doi:10.4324/9781003354246" rid="ref-zaidi_literary_2022" ref-type="bibr"><italic>Literary
+    Cultures and Digital Humanities in India</italic> (London: Routledge
+    India, 2022),
+    doi:<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.4324/9781003354246">10.4324/9781003354246</ext-link></xref>,
+    as well as the special issue of <italic>Digital Humanities
+    Quarterley</italic> on minimal computing, introduced in Roopika
+    Risam and Alex Gil,
+    <xref alt="“Introduction: The Questions of Minimal Computing,” Digital Humanities Quarterly 16, no. 2 (2022), https://www.digitalhumanities.org/dhq/vol/16/2/000646/000646.html" rid="ref-risam_introduction_2022" ref-type="bibr">“Introduction:
+    The Questions of Minimal Computing,” <italic>Digital Humanities
+    Quarterly</italic> 16, no. 2 (2022),
+    <ext-link ext-link-type="uri" xlink:href="https://www.digitalhumanities.org/dhq/vol/16/2/000646/000646.html">https://www.digitalhumanities.org/dhq/vol/16/2/000646/000646.html</ext-link></xref>.
+    Unfortunately there are no comparable sources on the development of
+    DH in Australia.</p>
+      </fn>
+      <fn id="fn2">
+        <label>2</label>
+        <p>See
+    <xref alt="Steven E. Jones, Roberto Busa, S. J. , and the Emergence of Humanities Computing: The Priest and the Punched Cards (London, UNITED KINGDOM: Taylor &amp; Francis Group, 2016)" rid="ref-jones_roberto_2016" ref-type="bibr">Steven
+    E. Jones, <italic>Roberto Busa, S. J. , and the Emergence of
+    Humanities Computing: The Priest and the Punched Cards</italic>
+    (London, UNITED KINGDOM: Taylor &amp; Francis Group,
+    2016)</xref>.</p>
+      </fn>
+      <fn id="fn3">
+        <label>3</label>
+        <p><xref alt="Roopika Risam, New Digital Worlds (Northwestern University Press, 2019), 9, doi:10.2307/j.ctv7tq4hg" rid="ref-risam_new_2019" ref-type="bibr">Roopika
+    Risam, <italic>New Digital Worlds</italic> (Northwestern University
+    Press, 2019), 9,
+    doi:<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.2307/j.ctv7tq4hg">10.2307/j.ctv7tq4hg</ext-link></xref>.</p>
+      </fn>
+      <fn id="fn4">
+        <label>4</label>
+        <p>Quoted in
+    <xref alt="Nidhi Kalra and Menasi Nene, “Ethics and Feminist Archiving in the Digital Age: An Interview with C.S. Lakshmi,” in Exploring Digital Humanities in India: Pedagogies, Practices, and Institutional Possibilities, ed. Maya Dodd and Nidhi Kalra (Abingdon; New York: Routledge, 2020), 142" rid="ref-dodd_ethics_2020" ref-type="bibr">Nidhi
+    Kalra and Menasi Nene, “Ethics and Feminist Archiving in the Digital
+    Age: An Interview with C.S. Lakshmi,” in <italic>Exploring Digital
+    Humanities in India: Pedagogies, Practices, and Institutional
+    Possibilities</italic>, ed. Maya Dodd and Nidhi Kalra (Abingdon; New
+    York: Routledge, 2020), 142</xref>.</p>
+      </fn>
+      <fn id="fn5">
+        <label>5</label>
+        <p>Quoted in
+    <xref alt="ibid., 143" rid="ref-dodd_ethics_2020" ref-type="bibr">ibid.,
+    143</xref>.</p>
+      </fn>
+      <fn id="fn6">
+        <label>6</label>
+        <p>For a critique of the “openness” ideal, see
+    <xref alt="Nathaniel Tkacz, Wikipedia and the Politics of Openness (Chicago ; London: University of Chicago Press, 2015), chap. 1" rid="ref-tkacz_wikipedia_2015" ref-type="bibr">Nathaniel
+    Tkacz, <italic>Wikipedia and the Politics of Openness</italic>
+    (Chicago ; London: University of Chicago Press, 2015), chap.
+    1</xref>.</p>
+      </fn>
+      <fn id="fn7">
+        <label>7</label>
+        <p>She rejects the public/private distinction:
+    <xref alt="Kalra and Nene, “Ethics and Feminist Archiving in the Digital Age,” 150" rid="ref-dodd_ethics_2020" ref-type="bibr">Kalra
+    and Nene, “Ethics and Feminist Archiving in the Digital Age,”
+    150</xref>.</p>
+      </fn>
+      <fn id="fn8">
+        <label>8</label>
+        <p><xref alt="Nishant Shah, “Digital Humanities on the Ground: Post-Access Politics and the Second Wave of Digital Humanities,” South Asian Review 40, no. 3 (July 2019): 155–73, doi:10.1080/02759527.2019.1599551" rid="ref-shah_digital_2019" ref-type="bibr">Nishant
+    Shah, “Digital Humanities on the Ground: Post-Access Politics and
+    the Second Wave of Digital Humanities,” <italic>South Asian
+    Review</italic> 40, no. 3 (July 2019): 155–73,
+    doi:<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1080/02759527.2019.1599551">10.1080/02759527.2019.1599551</ext-link></xref>.</p>
+      </fn>
+      <fn id="fn9">
+        <label>9</label>
+        <p><xref alt="Tahu Kukutai and John Taylor, eds., Indigenous Data Sovereignty: Toward an Agenda (Canberra: ANU Press, 2016)" rid="ref-kukutai_indigenous_2016" ref-type="bibr">Tahu
+    Kukutai and John Taylor, eds., <italic>Indigenous Data Sovereignty:
+    Toward an Agenda</italic> (Canberra: ANU Press, 2016)</xref>.</p>
+      </fn>
+      <fn id="fn10">
+        <label>10</label>
+        <p><xref alt="“CARE Principles for Indigenous Data Governance  ARDC,” Australian Research Data Commons, October 2022, https://ardc.edu.au/resource/the-care-principles/" rid="ref-noauthor_care_2022" ref-type="bibr">“CARE
+    Principles for Indigenous Data Governance ARDC,” <italic>Australian
+    Research Data Commons</italic>, October 2022,
+    <ext-link ext-link-type="uri" xlink:href="https://ardc.edu.au/resource/the-care-principles/">https://ardc.edu.au/resource/the-care-principles/</ext-link></xref>;
+    see Nayak and Rana, this volume, for a definition of the CARE
+    principles</p>
+      </fn>
+      <fn id="fn11">
+        <label>11</label>
+        <p>See, for example, Trove’s documentation on
+    cultural safety for first Australians:
+    <xref alt="“Cultural Safety for First Australians  Trove,” 2020, https://webarchive.nla.gov.au/awa/20200921070933/https://trove.nla.gov.au/help/using-trove/cultural-safety-first-australians" rid="ref-noauthor_cultural_2020" ref-type="bibr">“Cultural
+    Safety for First Australians Trove,” 2020,
+    <ext-link ext-link-type="uri" xlink:href="https://webarchive.nla.gov.au/awa/20200921070933/https://trove.nla.gov.au/help/using-trove/cultural-safety-first-australians">https://webarchive.nla.gov.au/awa/20200921070933/https://trove.nla.gov.au/help/using-trove/cultural-safety-first-australians</ext-link></xref>.</p>
+      </fn>
+      <fn id="fn12">
+        <label>12</label>
+        <p><xref alt="Kirsten Thorpe, Nathan Sentance, and Lauren Booker, “Wikimedia Australia and First Nations Metadata: ATSILIRN Protocols for Description and Access” (University of Technology Sydney, 2023), doi:10.57956/B05F-CF08" rid="ref-thorpe_wikimedia_2023" ref-type="bibr">Kirsten
+    Thorpe, Nathan Sentance, and Lauren Booker, “Wikimedia Australia and
+    First Nations Metadata: ATSILIRN Protocols for Description and
+    Access” (University of Technology Sydney, 2023),
+    doi:<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.57956/B05F-CF08">10.57956/B05F-CF08</ext-link></xref>;
+    <xref alt="Bronwyn Carlson and Lotus Rana, “&quot;I Really Like Wikipedia, but I Don’t Trust It&quot;: Understanding First Nations Peoples’ Experiences Using Wikipedia as Readers and/or Editors” (Macquarie University, 2024), doi:10.25949/76YK-G627" rid="ref-carlson_i_2024" ref-type="bibr">Bronwyn
+    Carlson and Lotus Rana, “"I Really Like Wikipedia, but I Don’t
+    Trust It": Understanding First Nations Peoples’ Experiences
+    Using Wikipedia as Readers and/or Editors” (Macquarie University,
+    2024),
+    doi:<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.25949/76YK-G627">10.25949/76YK-G627</ext-link></xref>.</p>
+      </fn>
+      <fn id="fn13">
+        <label>13</label>
+        <p><xref alt="“GlottoScope – India,” Glottolog 5.0, accessed July 31, 2024, https://glottolog.org/langdoc/status/browser?focus=ed&amp;country=IN#3/24.63/70.10" rid="ref-noauthor_glottoscope_nodate" ref-type="bibr">“GlottoScope
+    – India,” <italic>Glottolog 5.0</italic>, accessed July 31, 2024,
+    <ext-link ext-link-type="uri" xlink:href="https://glottolog.org/langdoc/status/browser?focus=ed&amp;country=IN#3/24.63/70.10">https://glottolog.org/langdoc/status/browser?focus=ed&amp;country=IN#3/24.63/70.10</ext-link></xref>.</p>
+      </fn>
+      <fn id="fn14">
+        <label>14</label>
+        <p><xref alt="“Glottoscope – Australia,” Glottolog 5.0, accessed July 31, 2024, https://glottolog.org/langdoc/status/browser?focus=ed&amp;country=AU#4/-22.11/133.68" rid="ref-noauthor_glottoscope_nodate-1" ref-type="bibr">“Glottoscope
+    – Australia,” <italic>Glottolog 5.0</italic>, accessed July 31,
+    2024,
+    <ext-link ext-link-type="uri" xlink:href="https://glottolog.org/langdoc/status/browser?focus=ed&amp;country=AU#4/-22.11/133.68">https://glottolog.org/langdoc/status/browser?focus=ed&amp;country=AU#4/-22.11/133.68</ext-link></xref>;
+    <xref alt="“Cultural Diversity of Australia,” Australian Bureau of Statistics, September 2022, https://www.abs.gov.au/articles/cultural-diversity-australia#language" rid="ref-noauthor_cultural_2022" ref-type="bibr">“Cultural
+    Diversity of Australia,” <italic>Australian Bureau of
+    Statistics</italic>, September 2022,
+    <ext-link ext-link-type="uri" xlink:href="https://www.abs.gov.au/articles/cultural-diversity-australia#language">https://www.abs.gov.au/articles/cultural-diversity-australia#language</ext-link></xref>.</p>
+      </fn>
+      <fn id="fn15">
+        <label>15</label>
+        <p><xref alt="Sneha Ragavan, “Processes of Pluralisation: Digital Databases and Art Writing in India,” in Exploring Digital Humanities in India: Pedagogies, Practices, and Institutional Possibilities, ed. Maya Dodd and Nidhi Kalra (Abingdon; New York: Routledge, 2020), 78–90" rid="ref-ragavan_processes_2020" ref-type="bibr">Sneha
+    Ragavan, “Processes of Pluralisation: Digital Databases and Art
+    Writing in India,” in <italic>Exploring Digital Humanities in India:
+    Pedagogies, Practices, and Institutional Possibilities</italic>, ed.
+    Maya Dodd and Nidhi Kalra (Abingdon; New York: Routledge, 2020),
+    78–90</xref>.</p>
+      </fn>
+      <fn id="fn16">
+        <label>16</label>
+        <p><xref alt="Spandana Bhowmik, “Bichitra: The Online Tagore Variorum Project,” in Literary Cultures and Digital Humanities in India (Routledge India, 2022)" rid="ref-bhowmik_bichitra_2022" ref-type="bibr">Spandana
+    Bhowmik, “Bichitra: The Online Tagore Variorum Project,” in
+    <italic>Literary Cultures and Digital Humanities in India</italic>
+    (Routledge India, 2022)</xref>.</p>
+      </fn>
+      <fn id="fn17">
+        <label>17</label>
+        <p><xref alt="Nishat Zaidi and Mohd Aqib, “From Rekhta to Rekhta.org: Digital Remappings of Urdu Literary Culture and Public Sphere,” in Literary Cultures and Digital Humanities in India (Routledge India, 2022), 12" rid="ref-zaidi_rekhta_2022" ref-type="bibr">Nishat
+    Zaidi and Mohd Aqib, “From Rekhta to Rekhta.org: Digital Remappings
+    of Urdu Literary Culture and Public Sphere,” in <italic>Literary
+    Cultures and Digital Humanities in India</italic> (Routledge India,
+    2022), 12</xref>.</p>
+      </fn>
+      <fn id="fn18">
+        <label>18</label>
+        <p><xref alt="“LDaCA,” Language Data Commons of Australia, accessed August 5, 2024, https://data.ldaca.edu.au/search" rid="ref-noauthor_ldaca_nodate" ref-type="bibr">“LDaCA,”
+    <italic>Language Data Commons of Australia</italic>, accessed August
+    5, 2024,
+    <ext-link ext-link-type="uri" xlink:href="https://data.ldaca.edu.au/search">https://data.ldaca.edu.au/search</ext-link></xref>.</p>
+      </fn>
+      <fn id="fn19">
+        <label>19</label>
+        <p><xref alt="Rachel Hendery and Andrew Burrell, “Playful Interfaces to the Archive and the Embodied Experience of Data,” Journal of Documentation 76, no. 2 (January 2019): 484–501, doi:10.1108/JD-05-2019-0078" rid="ref-hendery_playful_2019" ref-type="bibr">Rachel
+    Hendery and Andrew Burrell, “Playful Interfaces to the Archive and
+    the Embodied Experience of Data,” <italic>Journal of
+    Documentation</italic> 76, no. 2 (January 2019): 484–501,
+    doi:<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1108/JD-05-2019-0078">10.1108/JD-05-2019-0078</ext-link></xref>.</p>
+      </fn>
+      <fn id="fn20">
+        <label>20</label>
+        <p><xref alt="Risam and Gil, “Introduction”" rid="ref-risam_introduction_2022" ref-type="bibr">Risam
+    and Gil, “Introduction”</xref>.</p>
+      </fn>
+      <fn id="fn21">
+        <label>21</label>
+        <p><xref alt="Padmini Ray Murray and Chris Hand, “Making Culture: Locating the Digital Humanities in India,” Visible Language 49, no. 3 (December 2015): 144, http://radar.gsa.ac.uk/4701/1/Visible-Language-CM-2015-RayMurray-Hand-140-155.pdf" rid="ref-ray_murray_making_2015" ref-type="bibr">Padmini
+    Ray Murray and Chris Hand, “Making Culture: Locating the Digital
+    Humanities in India,” <italic>Visible Language</italic> 49, no. 3
+    (December 2015): 144,
+    <ext-link ext-link-type="uri" xlink:href="http://radar.gsa.ac.uk/4701/1/Visible-Language-CM-2015-RayMurray-Hand-140-155.pdf">http://radar.gsa.ac.uk/4701/1/Visible-Language-CM-2015-RayMurray-Hand-140-155.pdf</ext-link></xref>.</p>
+      </fn>
+      <fn id="fn22">
+        <label>22</label>
+        <p><xref alt="Souvik Mukherjee, “Digital Humanities, or What You Will: Bringing DH to Indian Classrooms,” in Exploring Digital Humanities in India: Pedagogies, Practices, and Institutional Possibilities, ed. Maya Dodd and Nidhi Kalra (Abingdon; New York: Routledge, 2020), 105–23" rid="ref-mukherjee_digital_2020" ref-type="bibr">Souvik
+    Mukherjee, “Digital Humanities, or What You Will: Bringing DH to
+    Indian Classrooms,” in <italic>Exploring Digital Humanities in
+    India: Pedagogies, Practices, and Institutional
+    Possibilities</italic>, ed. Maya Dodd and Nidhi Kalra (Abingdon; New
+    York: Routledge, 2020), 105–23</xref>.</p>
+      </fn>
+      <fn id="fn23">
+        <label>23</label>
+        <p><xref alt="Padmini Ray Murray, “Decolonising Design: Making Critically in India,” in Exploring Digital Humanities in India: Pedagogies, Practices, and Institutional Possibilities, ed. Maya Dodd and Nidhi Kalra (Abingdon; New York: Routledge, 2020), 130" rid="ref-ray_murray_decolonising_2020" ref-type="bibr">Padmini
+    Ray Murray, “Decolonising Design: Making Critically in India,” in
+    <italic>Exploring Digital Humanities in India: Pedagogies,
+    Practices, and Institutional Possibilities</italic>, ed. Maya Dodd
+    and Nidhi Kalra (Abingdon; New York: Routledge, 2020),
+    130</xref>.</p>
+      </fn>
+      <fn id="fn24">
+        <label>24</label>
+        <p><xref alt="Nick Thieberger, “Technology in Support of Languages of The Pacific: Neo-Colonial or Post-Colonial?” ASIAN-EUROPEAN MUSIC RESEARCH JOURNAL 5 (June 2020): 17–24, doi:10.30819/aemr.5-3" rid="ref-thieberger_technology_2020" ref-type="bibr">Nick
+    Thieberger, “Technology in Support of Languages of The Pacific:
+    Neo-Colonial or Post-Colonial?” <italic>ASIAN-EUROPEAN MUSIC
+    RESEARCH JOURNAL</italic> 5 (June 2020): 17–24,
+    doi:<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.30819/aemr.5-3">10.30819/aemr.5-3</ext-link></xref>;
+    <xref alt="Nick Thieberger, “Doing It for Ourselves: The New Archive Built by and Responsive to the Researcher,” Digital Humanities Quarterly 17, no. 1 (2023), https://www.digitalhumanities.org/dhq/vol/17/1/000667/000667.html" rid="ref-thieberger_doing_2023" ref-type="bibr">Nick
+    Thieberger, “Doing It for Ourselves: The New Archive Built by and
+    Responsive to the Researcher,” <italic>Digital Humanities
+    Quarterly</italic> 17, no. 1 (2023),
+    <ext-link ext-link-type="uri" xlink:href="https://www.digitalhumanities.org/dhq/vol/17/1/000667/000667.html">https://www.digitalhumanities.org/dhq/vol/17/1/000667/000667.html</ext-link></xref>.</p>
+      </fn>
+      <fn id="fn25">
+        <label>25</label>
+        <p><xref alt="“Rrupiya  Word Details,” Yolŋu Matha Dictionary, accessed August 5, 2024, https://yolngudictionary.cdu.edu.au/word_details.php?id=7080" rid="ref-noauthor_rrupiya_nodate" ref-type="bibr">“Rrupiya
+    Word Details,” <italic>Yolŋu Matha Dictionary</italic>, accessed
+    August 5, 2024,
+    <ext-link ext-link-type="uri" xlink:href="https://yolngudictionary.cdu.edu.au/word_details.php?id=7080">https://yolngudictionary.cdu.edu.au/word_details.php?id=7080</ext-link></xref>.</p>
+      </fn>
+      <fn id="fn26">
+        <label>26</label>
+        <p><xref alt="Nirmala Menon, Remapping the Indian Postcolonial Canon (London: Palgrave Macmillan UK, 2016), chap. 4, doi:10.1057/978-1-137-53798-0" rid="ref-menon_remapping_2016" ref-type="bibr">Nirmala
+    Menon, <italic>Remapping the Indian Postcolonial Canon</italic>
+    (London: Palgrave Macmillan UK, 2016), chap. 4,
+    doi:<ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1057/978-1-137-53798-0">10.1057/978-1-137-53798-0</ext-link></xref>.</p>
+      </fn>
+      <fn id="fn27">
+        <label>27</label>
+        <p><xref alt="Kathryn Gledhill-Tucker, “Campfire,” in The Rocks Remain : Blak Poetry and Story, ed. Karen Wyld and Dominic Guerrera (Kent Town: Wakefield Press, 2024), 83–90" rid="ref-gledhill-tucker_campfire_2024" ref-type="bibr">Kathryn
+    Gledhill-Tucker, “Campfire,” in <italic>The Rocks Remain : Blak
+    Poetry and Story</italic>, ed. Karen Wyld and Dominic Guerrera (Kent
+    Town: Wakefield Press, 2024), 83–90</xref>.</p>
       </fn>
     </fn-group>
   </back>
